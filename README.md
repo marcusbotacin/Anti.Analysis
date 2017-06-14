@@ -27,3 +27,7 @@ The *Detectors* directory contains python implementation for the tricks detector
 ## Data and Results
 
 The *Data* directory describes names, hashes, and tricks detected for each binary/used dataset.
+
+## Misc
+
+The *Misc* directory contains some code and other stuff used for additional tests.
