@@ -1,1 +1,3 @@
-TO BE ADDED
+# Detectors
+
+Run using the *analyzer.py*.
