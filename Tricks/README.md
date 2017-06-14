@@ -19,7 +19,7 @@
 * *FakeRet*: Make a *CALL* using a *RET*.
 * *HookDetection*: Detect a *JMP* instruction.
 * *NtGlobalFlag*: Check PEB flags.
-* *StealthImport*: Use functions without explicit importing it. This example needs to be completed in order to proper work.
+* *StealthImport*: Use functions without explicitly importing them. This example needs to be completed in order to work properly.
 
 ## Compilation
 
