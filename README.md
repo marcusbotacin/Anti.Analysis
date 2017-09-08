@@ -31,3 +31,7 @@ The *Data* directory describes names, hashes, and tricks detected for each binar
 ## Misc
 
 The *Misc* directory contains some code and other stuff used for additional tests.
+
+## Publication
+
+The paper *Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario* will appear in *Proceedings of SBSEG 2017*.
