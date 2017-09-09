@@ -1,16 +1,16 @@
 # Anti.Analysis
 
-This repository contains additional material for the Paper *Malware: Analysis, Anti-Analysis, and Anti-Anti-Analysis*.
+This repository contains additional material for the Paper *Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario*.
 
 ## Authors
 
-This work was developed by Marcus Botacin and Vitor Falcão da Rocha, under supervision of Prof. Dr. Paulo Lício de Geus and Prof. Dr. André Ricardo Abed Grégio.
+This work was developed by Marcus Botacin and Vitor Falcão da Rocha, under supervision of [Prof. Dr. Paulo Lício de Geus](http://www.lasca.ic.unicamp.br/paulo/) and [Prof. Dr. André Ricardo Abed Grégio](https://sites.google.com/site/argregio/).
 
 ## Goals
 
-* Provide Implementations for known anti-analysis tricks
-* Evaluate these detector in distinct usage scenarios
-* Analyze distinct datasets regarding their anti-analysis tricks
+* Provide implementations for known anti-analysis tricks.
+* Evaluate these detectors in distinct usage scenarios.
+* Analyze distinct datasets regarding their anti-analysis tricks.
 
 ## Whitepaper
 
@@ -34,4 +34,4 @@ The *Misc* directory contains some code and other stuff used for additional test
 
 ## Publication
 
-The paper *Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario* will appear in *Proceedings of SBSEG 2017*.
+The paper *Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario* will appear in *Proceedings of [SBSEG 2017](https://sbseg2017.redes.unb.br/)*.
